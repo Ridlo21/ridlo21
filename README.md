@@ -33,3 +33,7 @@ A passionate web developer from Indonesia, specializing in Laravel and modern we
 ##### Connect with me
 
 ![https://github.com/ridlo21](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/inurrie99](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.wa.me/6282337375032](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white) ![https://www.facebook.com/ainur.ridlo.2025/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+##### My github stats
+
+[![Ainur Ridlo GitHub stats](https://github-readme-stats.vercel.app/api?username=ridlo21)](https://github.com/ridlo21/github-readme-stats)
