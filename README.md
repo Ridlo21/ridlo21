@@ -59,4 +59,18 @@ A passionate web developer from Indonesia, specializing in Laravel and modern we
 ---
 [![](https://komarev.com/ghpvc/?username=ridlo21&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h4 data-importer="text" align="left">Play games with me</h4>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/ridlo21/ridlo21/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridlo21/ridlo21/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridlo21/ridlo21/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ridlo21/ridlo21/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
