@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Ainur Ridlo](img/header-1.png)
 A passionate web developer from Indonesia, specializing in Laravel and modern web applications.
 
 - 🔭 I’m currently working on educational and management web applications using Laravel.
