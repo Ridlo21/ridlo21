@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Ainur Ridlo](img/header-1.png)
-<!-- 
+#### Hello, I'm Ainur Ridlo, S.Kom. 👋
+
 A passionate web developer from Indonesia, specializing in Laravel and modern web applications.
 
 - 🔭 I’m currently working on educational and management web applications using Laravel.
@@ -25,6 +26,7 @@ A passionate web developer from Indonesia, specializing in Laravel and modern we
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy spending quiet evenings coding with a fan running beside me.
 
+<!-- 
 ##### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,bootstrap,jquery&perline=7)](https://skillicons.dev)
@@ -37,7 +39,7 @@ A passionate web developer from Indonesia, specializing in Laravel and modern we
 
 [![Ainur Ridlo GitHub stats](https://github-readme-stats.vercel.app/api?username=ridlo21&show_icons=true)](https://github.com/ridlo21/github-readme-stats) -->
 
-#### Hello, I'm Ainur Ridlo, S.Kom. 👋
+
 
 
 ##### 🌐 Socials:
