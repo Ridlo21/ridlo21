@@ -37,3 +37,5 @@ A passionate web developer from Indonesia, specializing in Laravel and modern we
 ##### My github stats
 
 [![Ainur Ridlo GitHub stats](https://github-readme-stats.vercel.app/api?username=ridlo21)](https://github.com/ridlo21/github-readme-stats)
+
+![Ainur Ridlo GitHub stats](https://github-readme-stats.vercel.app/api?username=ridlo21&show_icons=true&theme=merko)
